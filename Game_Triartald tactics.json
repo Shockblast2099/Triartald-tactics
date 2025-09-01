@@ -1,0 +1,140 @@
+{
+  "name": "Triartald tactics",
+  "menuBackgroundImage": "https://github.com/Shockblast2099/Triartald-tactics/blob/main/7074375.jpg?raw=true",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://github.com/Shockblast2099/Triartald-tactics/blob/4af4e6439ff2765b972fb267da565728fb34c99e/CardList%20(1).json",
+    "cardBack": "https://github.com/Shockblast2099/Triartald-tactics/blob/main/7074375.jpg?raw=true"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Hechizo",
+      "Hechizo instantaneo",
+      "Hechizo lento",
+      "Campeón",
+      "Unidad",
+      "Trampa",
+      "Terreno",
+      "Equipamiento"
+    ],
+    "formats": []
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Elije cuantas cartas desees de las 5 en tu primera mano, devuelvelas al mazo, revuelve y roba la misma cantidad",
+        "startingHandSize": "5",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": true
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [
+        {
+          "name": "Guadaña monstruosa",
+          "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/39.jpg",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Nieve",
+          "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/42.jpg",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "La mariposa",
+          "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/43.jpg",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Asesino del azulejo",
+          "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/44.jpg",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Tormenta de nieve",
+          "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/45.jpg",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Wyrath, pecado capital",
+          "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/46.jpg",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Alas de angel",
+          "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/47.jpg",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        }
+      ],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Mana",
+          "Champion zone",
+          "Traps",
+          "Graveyard",
+          ""
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": true,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Cards",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": true
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Ressources",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          }
+        }
+      }
+    }
+  }
+}
