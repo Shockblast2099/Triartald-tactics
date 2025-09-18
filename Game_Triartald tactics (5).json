@@ -2,7 +2,7 @@
   "name": "Triartald tactics",
   "menuBackgroundImage": "https://github.com/Shockblast2099/Triartald-tactics/blob/main/7074375.jpg?raw=true",
   "defaultRessources": {
-    "backgrounds": [],
+    "backgrounds": ["https://github.com/Shockblast2099/Triartald-tactics/blob/e37884806a77f9e1bc7c7f5f41b716760f5e6bb5/desktop-wallpaper-wheat-field-fantasy.jpg?raw=true"],
     "decksUrl": ""
   },
   "customHelp": "",
