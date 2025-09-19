@@ -22,7 +22,7 @@
       "Terreno",
       "Equipamiento"
     ],
-    "formats": []
+    "formats": ["Classic"]
   },
   "gameplay": {
     "Classic": {
