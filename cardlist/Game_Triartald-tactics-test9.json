@@ -57,8 +57,8 @@
         }
       ],
       "countersStartingValues": [
-        "0",
-        "50"
+        0,
+        50
       ],
       "hideFacedDownCards": false,
       "sections": {
