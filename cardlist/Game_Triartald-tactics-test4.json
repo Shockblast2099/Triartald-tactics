@@ -72,7 +72,7 @@
         ],
         "layout": {
           "direction": "row",
-          "isSymetricalForOpponents": true,
+          "style": false,
           "content": [
             {
               "direction": "column",
@@ -120,6 +120,7 @@
               "isSymetricalForOpponents": false
             }
           ]
+           "isSymetricalForOpponents": false
         },
         "categoriesAlreadyOnBoard": [
           "Campeón"
