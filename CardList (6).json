@@ -1,0 +1,1522 @@
+{
+  "Novatamecanica": {
+    "id": "Novatamecanica",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Novata mecanica",
+        "type": "Unidad",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/1.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Novata mecanica",
+    "type": "Unidad",
+    "cost": "1"
+  },
+  "Entusiastamaquinas": {
+    "id": "Entusiastamaquinas",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Entusiasta de maquinas",
+        "type": "Unidad",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Entusiasta de maquinas ",
+    "type": "Unidad",
+    "cost": "1"
+  },
+  "Shockunit": {
+    "id": "Shockunit",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shock",
+        "type": "Unidad",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/10.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shock",
+    "type": "Unidad",
+    "cost": "5"
+  },
+  "raikiri": {
+    "id": "raikiri",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raikiri",
+        "type": "Hechizo",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/11.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raikiri",
+    "type": "Hechizo",
+    "cost": "4"
+  },
+  "prisa": {
+    "id": "prisa",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Prisa",
+        "type": "Hechizo lento",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/12.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prisa",
+    "type": "Hechizo",
+    "cost": "5"
+  },
+  "innovación": {
+    "id": "innovación",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Innovación",
+        "type": "Hechizo lento",
+        "cost": "8",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/13.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Innovación",
+    "type": "Hechizo",
+    "cost": "8"
+  },
+  "relojroto": {
+    "id": "relojroto",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reloj roto",
+        "type": "Hechizo instantaneo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/14.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reloj roto",
+    "type": "Hechizo",
+    "cost": "2"
+  },
+  "frenesí": {
+    "id": "frenesí",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frenesí",
+        "type": "Hechizo lento",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/15.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frenesí",
+    "type": "Hechizo lento",
+    "cost": "2"
+  },
+  "potenciación": {
+    "id": "potenciación",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Potenciación",
+        "type": "Hechizo instantaneo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/16.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Potenciación",
+    "type": "Hechizo instantaneo",
+    "cost": "2"
+  },
+  "recarga": {
+    "id": "recarga",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recarga",
+        "type": "Hechizo instantaneo",
+        "cost": "0",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/17.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recarga",
+    "type": "Hechizo instantaneo",
+    "cost": 0
+  },
+  "llamadoalring": {
+    "id": "llamadoalring",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Llamado al ring",
+        "type": "Hechizo lento",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/18.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Llamado al ring",
+    "type": "Hechizo lento",
+    "cost": "4"
+  },
+  "lamparadechatarra": {
+    "id": "lamparadechatarra",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lampara de chatarra",
+        "type": "Hechizo",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/19.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lampara de chatarra",
+    "type": "Hechizo",
+    "cost": "3"
+  },
+  "cortocircuito": {
+    "id": "cortocircuito",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corto Circuito",
+        "type": "Hechizo",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/20.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corto circuito",
+    "type": "Hechizo",
+    "cost": "3"
+  },
+  "alternador": {
+    "id": "alternador",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alternador",
+        "type": "Hechizo",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/21.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alternador",
+    "type": "Hechizo",
+    "cost": "4"
+  },
+  "subidondeenergia": {
+    "id": "subidondeenergia",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Subidón de energía (l)",
+        "type": "Hechizo lento",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/22.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Subidon de energia",
+    "type": "Hechizo lento",
+    "cost": "5"
+  },
+  "choquesestaticos": {
+    "id": "choquesestaticos",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Choques estaticos",
+        "type": "Hechizo",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/23.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Choques estaticos",
+    "type": "Hechizo",
+    "cost": "3"
+  },
+  "zonaelectrica": {
+    "id": "zonaelectrica",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zona electrica",
+        "type": "Terreno",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/24.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zona electrica",
+    "type": "Terreno",
+    "cost": "5"
+  },
+  "elring": {
+    "id": "elring",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "El ring",
+        "type": "Terreno",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/25.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "El ring",
+    "type": "Terreno",
+    "cost": "4"
+  },
+  "herramientasdechatarra": {
+    "id": "herramientasdechatarra",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Herramientas de chatarra",
+        "type": "Equipamiento",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/26.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Herramientas de chatarra",
+    "type": "Equipamiento",
+    "cost": "3"
+  },
+  "generador": {
+    "id": "generador",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Generador",
+        "type": "Equipamiento",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/27.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Generador",
+    "type": "Equipamiento",
+    "cost": "3"
+  },
+  "catalizadorelectrico": {
+    "id": "catalizadorelectrico",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Catalizador electrico",
+        "type": "Trampa",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/28.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Catalizador electrico",
+    "type": "Trampa",
+    "cost": "3"
+  },
+  "movimientoinstantaneo": {
+    "id": "movimientoinstantaneo",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Movimiento instantaneo",
+        "type": "Trampa",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/29.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Movimiento instantaneo",
+    "type": "Trampa",
+    "cost": "4"
+  },
+  "robotdevapor": {
+    "id": "robotdevapor",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Robot de vapor",
+        "type": "Unidad",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/3.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Robot de vapor",
+    "type": "Unidad",
+    "cost": "3"
+  },
+  "chispadepoder": {
+    "id": "chispadepoder",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chispa de poder",
+        "type": "Trampa",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/30.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chispa de poder",
+    "type": "Trampa",
+    "cost": "1"
+  },
+  "shockchampion": {
+    "id": "shockchampion",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shock, la chispa alegre",
+        "type": "Campeon",
+        "cost": 0,
+        "image": "https://github.com/Shockblast2099/Triartald-tactics/blob/main/31.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shock, la chispa alegre",
+    "type": "Campeon",
+    "cost": 0
+  },
+  "asesinosombrio": {
+    "id": "asesinosombrio",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Asesino sombrío",
+        "type": "Unidad",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/32.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Asesino sombrio",
+    "type": "Unidad",
+    "cost": "3"
+  },
+  "maestradearmas": {
+    "id": "maestradearmas",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maestra de armas",
+        "type": "Unidad",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/33.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maestra de armas",
+    "type": "Unidad",
+    "cost": "2"
+  },
+  "matademonios": {
+    "id": "matademonios",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Matademonios",
+        "type": "Unidad",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/34.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Matademonios",
+    "type": "Unidad",
+    "cost": "5"
+  },
+  "demoniointimidante": {
+    "id": "demoniointimidante",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Demonio intimidante",
+        "type": "Unidad",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/35.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demonio intimidante",
+    "type": "Unidad",
+    "cost": "4"
+  },
+  "demoniousurpador": {
+    "id": "demoniousurpador",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Demonio usurpador",
+        "type": "Unidad",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/36.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demonio usurpador",
+    "type": "Unidad",
+    "cost": "4"
+  },
+  "guerreroimprovisador": {
+    "id": "guerreroimprovisador",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guerrero improvisador",
+        "type": "Unidad",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/37.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guerrero improvisador",
+    "type": "Unidad",
+    "cost": "4"
+  },
+  "matriarca": {
+    "id": "matriarca",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Matriarca",
+        "type": "Unidad",
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/38.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Matriarca",
+    "type": "Unidad",
+    "cost": "7"
+  },
+  "guadañamonstruosa": {
+    "id": "guadañamonstruosa",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Guadaña monstruosa",
+        "type": "Equipamiento",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/39.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guadaña monstruosa",
+    "type": "Equipamiento",
+    "cost": "3"
+  },
+  "mercantederesiduos": {
+    "id": "mercantederesiduos",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mercante de residuos",
+        "type": "Unidad",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mercante de residuos",
+    "type": "Unidad",
+    "cost": "3"
+  },
+  "monjeadaptable": {
+    "id": "monjeadaptable",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Monje adaptable",
+        "type": "Unidad",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/40.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Monje adaptable",
+    "type": "Unidad",
+    "cost": "4"
+  },
+  "olkurtunit": {
+    "id": "olkurtunit",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Olkurt",
+        "type": "Unidad",
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/41.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Olkurt",
+    "type": "Unidad",
+    "cost": "3"
+  },
+  "nieve": {
+    "id": "nieve",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Nieve",
+        "type": "Equipamiento",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/42.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nieve",
+    "type": "Equipamiento",
+    "cost": "3"
+  },
+  "lamariposa": {
+    "id": "lamariposa",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "La mariposa",
+        "type": "Equipamiento",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/43.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "La mariposa",
+    "type": "Equipamiento",
+    "cost": "2"
+  },
+  "asesinodelazulejo": {
+    "id": "asesinodelazulejo",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Asesino del azulejo",
+        "type": "Unidad",
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/44.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Asesino del azulejo",
+    "type": "Unidad",
+    "cost": "6"
+  },
+  "tormentadenieve": {
+    "id": "tormentadenieve",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Tormenta de nieve",
+        "type": "Equipamiento",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/45.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tormenta de nieve",
+    "type": "Equipamiento",
+    "cost": "2"
+  },
+  "wyrathpecadocapital": {
+    "id": "wyrathpecadocapital",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Wyrath, pecado capital",
+        "type": "Unidad",
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/46.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wyrath, pecado capital",
+    "type": "Unidad",
+    "cost": "6"
+  },
+  "alasdeangel": {
+    "id": "alasdeangel",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Alas de angel",
+        "type": "Equipamiento",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/47.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alas de angel",
+    "type": "Equipamiento",
+    "cost": "2"
+  },
+  "simpatía": {
+    "id": "simpatía",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Simpatía",
+        "type": "Hechizo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/48.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Simpatía",
+    "type": "Hechizo",
+    "cost": "2"
+  },
+  "acrobacia": {
+    "id": "acrobacia",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Acrobacia",
+        "type": "Hechizo",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/49.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Acrobacia",
+    "type": "Hechizo",
+    "cost": "3"
+  },
+  "catalizadordeenergía": {
+    "id": "catalizadordeenergía",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Catalizador de energía",
+        "type": "Unidad",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/5.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Catalizador de energía",
+    "type": "Unidad",
+    "cost": "3"
+  },
+  "refuerzodeforja": {
+    "id": "refuerzodeforja",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Refuerzo de forja ",
+        "type": "Hechizo",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/50.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Refuerzo de forja",
+    "type": "Hechizo",
+    "cost": "3"
+  },
+  "furia": {
+    "id": "furia",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Furia",
+        "type": "Hechizo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/51.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Furia",
+    "type": "Hechizo",
+    "cost": "2"
+  },
+  "bosquesusurrante": {
+    "id": "bosquesusurrante",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bosque susurrante",
+        "type": "Terreno",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/52.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bosque susurrante",
+    "type": "Terreno",
+    "cost": "5"
+  },
+  "villaaledaña": {
+    "id": "villaaledaña",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Villa aledaña",
+        "type": "Terreno",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/53.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Villa aledaña ",
+    "type": "Terreno",
+    "cost": "3"
+  },
+  "espadaoxidada": {
+    "id": "espadaoxidada",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espada oxidada",
+        "type": "Equipamiento",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/54.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espada oxidada",
+    "type": "Equipamiento",
+    "cost": "1"
+  },
+  "katanaveloz": {
+    "id": "katanaveloz",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Katana veloz",
+        "type": "Equipamiento",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/55.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Katana veloz",
+    "type": "Equipamiento",
+    "cost": "3"
+  },
+  "espadacazadora": {
+    "id": "espadacazadora",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espada cazadora",
+        "type": "Equipamiento",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/56.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espada cazadora",
+    "type": "Equipamiento",
+    "cost": "5"
+  },
+  "arcodemoniaco": {
+    "id": "arcodemoniaco",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arco demoniaco",
+        "type": "Equipamiento",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/57.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arco demoniaco",
+    "type": "Equipamiento",
+    "cost": "5"
+  },
+  "demonioarcanista": {
+    "id": "demonioarcanista",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Demonio arcanista",
+        "type": "Unidad",
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/58.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demonio arcanista",
+    "type": "Unidad",
+    "cost": "6"
+  },
+  "espadademoniaca": {
+    "id": "espadademoniaca",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espada demoniaca",
+        "type": "Equipamiento",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/59.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espada demoniaca",
+    "type": "Equipamiento",
+    "cost": "4"
+  },
+  "cientificoloco": {
+    "id": "cientificoloco",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cientifico loco",
+        "type": "Unidad",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cientifico loco",
+    "type": "Unidad",
+    "cost": "1"
+  },
+  "demonioberserker": {
+    "id": "demonioberserker",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Demonio berserker",
+        "type": "Unidad",
+        "cost": "8",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/60.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demonio berserker",
+    "type": "Unidad",
+    "cost": "8"
+  },
+  "maza": {
+    "id": "maza",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maza",
+        "type": "Equipamiento",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/61.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maza",
+    "type": "Equipamiento",
+    "cost": "3"
+  },
+  "capuchamisteriosa": {
+    "id": "capuchamisteriosa",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Capucha misteriosa",
+        "type": "Equipamiento",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/62.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Capucha misteriosa",
+    "type": "Equipamiento",
+    "cost": "3"
+  },
+  "espadayescudo": {
+    "id": "espadayescudo",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espada y escudo",
+        "type": "Equipamiento",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/63.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espada y escudo",
+    "type": "Equipamiento",
+    "cost": "2"
+  },
+  "trampadebosque": {
+    "id": "trampadebosque",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trampa de bosque",
+        "type": "Trampa",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/64.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trampa de bosque",
+    "type": "Trampa",
+    "cost": "2"
+  },
+  "emboscada": {
+    "id": "emboscada",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emboscada",
+        "type": "Trampa",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/65.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emboscada",
+    "type": "Trampa",
+    "cost": "3"
+  },
+  "navajaoculta": {
+    "id": "navajaoculta",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Navaja oculta",
+        "type": "Trampa",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/66.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Navaja oculta",
+    "type": "Trampa",
+    "cost": "3"
+  },
+  "reydelring": {
+    "id": "reydelring",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rey del ring",
+        "type": "Unidad",
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/7.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rey del ring",
+    "type": "Unidad",
+    "cost": "6"
+  },
+  "barondevapor": {
+    "id": "barondevapor",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Barón de vapor",
+        "type": "Unidad",
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/8.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baron de vapor",
+    "type": "Unidad",
+    "cost": "7"
+  },
+  "peleadornovato": {
+    "id": "peleadornovato",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Peleador novato",
+        "type": "Unidad",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/cf2d98d46868349243afdee196eb82ba638b5630/9.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peleador novato",
+    "type": "Unidad",
+    "cost": "4"
+  },
+  "olkurtchampion": {
+    "id": "olkurtchampion",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Olkurt, el guerrero de la cuerda negra",
+        "type": "Campeon",
+        "cost": 0,
+        "image": "https://github.com/Shockblast2099/Triartald-tactics/blob/main/67.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Olkurt, el guerrero de la cuerda negra",
+    "type": "Campeon",
+    "cost": 0
+  },
+  "mana": {
+    "id": "mana",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "mana",
+        "type": false,
+        "cost": 0,
+        "image": "https://github.com/Shockblast2099/Triartald-tactics/blob/main/Persuasive%20Research%20Poster%20in%20Orange%20Modern%20Simple%20Style.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "mana",
+    "type": false,
+    "cost": 0
+  },
+  "kayrethunit": {
+    "id": "kayreth",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kayreth",
+        "type": "Unidad",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/69.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kayreth",
+    "type": "Unidad",
+    "cost": "5"
+  },
+  "exploradorelemental": {
+    "id": "exploradorelemental",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Explorador elemental",
+        "type": "Unidad",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/70.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Explorador elemental",
+    "type": "Unidad",
+    "cost": "4"
+  },
+  "magahelada": {
+    "id": "magahelada",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maga helada",
+        "type": "Unidad",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/71.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maga helada",
+    "type": "Unidad",
+    "cost": "5"
+  },
+  "magahibrida": {
+    "id": "magahibrida",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maga hibrida",
+        "type": "Unidad",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/72.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maga hibrida",
+    "type": "Unidad",
+    "cost": "4"
+  },
+  "magorebelde": {
+    "id": "magorebelde",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mago rebelde",
+        "type": "Unidad",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/73.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mago rebelde",
+    "type": "Unidad",
+    "cost": "4"
+  },
+  "aprendizdemagia": {
+    "id": "aprendizdemagia",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aprendiz de magia",
+        "type": "Unidad",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/74.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aprendiz de magia",
+    "type": "Unidad",
+    "cost": "1"
+  },
+  "bestiaelemental": {
+    "id": "bestiaelemental",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bestia elemental",
+        "type": "Unidad",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/75.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bestia elemental",
+    "type": "Unidad",
+    "cost": "2"
+  },
+  "exploradoraintrepida": {
+    "id": "exploradoraintrepida",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Exploradora intrepida",
+        "type": "Unidad",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/76.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exploradora intrepida",
+    "type": "Unidad",
+    "cost": "2"
+  },
+  "maestroelemental": {
+    "id": "maestroelemental",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maestro elemental",
+        "type": "Unidad",
+        "cost": "8",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/77.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maestro elemental",
+    "type": "Unidad",
+    "cost": "8"
+  },
+  "boladefuego": {
+    "id": "boladefuego",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bola de fuego",
+        "type": "Hechizo",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/78.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bola de fuego",
+    "type": "Hechizo",
+    "cost": "2"
+  },
+  "dragondefuego": {
+    "id": "dragondefuego",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon de fuego",
+        "type": "Hechizo",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/79.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon de fuego",
+    "type": "Unidad",
+    "cost": "5"
+  },
+  "manifestacionelemental": {
+    "id": "manifestacionelemental",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manifestación elemental",
+        "type": "Hechizo instantaneo",
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/80.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manifestación elemental",
+    "type": "Hechizo instantaneo",
+    "cost": "6"
+  },
+  "unionelemental": {
+    "id": "unionelemental",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unión elemental",
+        "type": "Hechizo",
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/81.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unión elemental",
+    "type": "Hechizo",
+    "cost": "7"
+  },
+  "fuegofatuo": {
+    "id": "fuegofatuo",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fuego fatuo",
+        "type": "Hechizo",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/82.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fuego fatuo",
+    "type": "Hechizo",
+    "cost": "3"
+  },
+  "calcinacion": {
+    "id": "calcinacion",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Calcinación",
+        "type": "Hechizo",
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/83.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calcinación",
+    "type": "Hechizo",
+    "cost": "6"
+  },
+  "dobledragon": {
+    "id": "dobledragon",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doble dragón",
+        "type": "Hechizo lento",
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/84.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doble dragón",
+    "type": "Hechizo lento",
+    "cost": "7"
+  },
+  "chispapirotecnica": {
+    "id": "chispapirotecnica",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chispa pirotecnica",
+        "type": "Hechizo",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/85.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chispa pirotecnica",
+    "type": "Hechizo",
+    "cost": "4"
+  },
+  "aprendizajemagico": {
+    "id": "aprendizajemagico",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aprendizaje mágico",
+        "type": "Hechizo instantaneo",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/86.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aprendizaje mágico",
+    "type": "Hechizo instantaneo",
+    "cost": "4"
+  },
+  "academiademagia": {
+    "id": "academiademagia",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Academia de magia",
+        "type": "Terreno",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/87.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Academia de magia",
+    "type": "Terreno",
+    "cost": "4"
+  },
+  "senderomagico": {
+    "id": "senderomagico",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sendero mágico",
+        "type": "Terreno",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/88.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sendero mágico",
+    "type": "Terreno",
+    "cost": "3"
+  },
+  "castillodefuego": {
+    "id": "castillodefuego",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Castillo de fuego",
+        "type": "Terreno",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/89.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Castillo de fuego",
+    "type": "Terreno",
+    "cost": "5"
+  },
+  "guantespirotecnicos": {
+    "id": "guantespirotecnicos",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guantes pirotecnicos",
+        "type": "Equipamiento",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/90.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guantes pirotecnicos",
+    "type": "Equipamiento",
+    "cost": "2"
+  },
+  "grimorioelemental": {
+    "id": "grimorioelemental",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grimorio elemental",
+        "type": "Equipamiento",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/91.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grimorio elemental",
+    "type": "Equipamiento",
+    "cost": "3"
+  },
+  "corazadraconica": {
+    "id": "corazadraconica",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Coraza draconica",
+        "type": "Trampa",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/92.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coraza draconica",
+    "type": "Trampa",
+    "cost": "3"
+  },
+  "maniobraignifuga": {
+    "id": "maniobraignifuga",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maniobra ignífuga",
+        "type": "Trampa",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/93.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maniobra ignifuga",
+    "type": "Trampa",
+    "cost": "4"
+  },
+  "trampadefuego": {
+    "id": "trampadefuego",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trampa de fuego",
+        "type": "Trampa",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/706a9972de8cb8a1d25b9caebee1884b834df2e4/94.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trampa de fuego",
+    "type": "Trampa",
+    "cost": "5"
+  },
+  "kayrethchampion": {
+    "id": "kayrethchampion",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kayreth, el aliento del dragón",
+        "type": "Campeon",
+        "cost": 0,
+        "image": "https://github.com/Shockblast2099/Triartald-tactics/blob/main/95.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kayreth, el aliento del dragón",
+    "type": "Campeon",
+    "cost": 0
+  }
+}
