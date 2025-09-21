@@ -1504,7 +1504,7 @@
     "cost": "5"
   },
   "kayrethchampion": {
-    "id": "kayrethchamp",
+    "id": "kayrethchampion",
     "isToken": false,
     "face": {
       "front": {
