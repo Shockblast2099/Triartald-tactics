@@ -285,7 +285,7 @@
             "height": "MEDIUM",
             "alignment": "START",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
