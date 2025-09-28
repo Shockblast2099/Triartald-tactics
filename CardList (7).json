@@ -1822,5 +1822,21 @@
     "name": "General mafioso",
     "type": "Unidad",
     "cost": "5"
+  },
+  "irischampion": {
+    "id": "irischampion",
+    "isToken": false,
+    "face":{
+      "front":{
+        "name": "Iris, the not so human magnet",
+        "type": "Campeon",
+        "cost": "0",
+        "image": "https://raw.githubusercontent.com/Shockblast2099/Triartald-tactics/c385aec1fa256323949c58d93d1e5f40127eaf03/96.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iris, the not so human magnet",
+    "type": "Campeon",
+    "cost": "0"
   }
 }
