@@ -1957,14 +1957,14 @@
     "face": {
       "front": {
         "name": "Shady",
-        "type": "Campeon",
+        "type": "Unidad",
         "cost": "4",
         "image": "https://github.com/Shockblast2099/Triartald-tactics/blob/main/Magia/122.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "Shady",
-    "type": "Campeon",
+    "type": "Unidad",
     "cost": "4"
   },
   "distorsion": {
